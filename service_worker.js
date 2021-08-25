@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-//     '/zamk50j3.github.io/pwatest/',
+    '/zamk50j3.github.io/pwatest/',
 ];
 
 // インストール処理
